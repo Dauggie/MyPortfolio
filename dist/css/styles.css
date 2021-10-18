@@ -4062,15 +4062,17 @@ textarea.form-control-lg {
   list-style: none;
 }
 .navbar-nav .nav-link {
-  
+
   padding-right: 0;
   padding-left: 0;
+  
 }
 .navbar-nav .dropdown-menu {
   position: static;
 }
 
 .navbar-text {
+  
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
